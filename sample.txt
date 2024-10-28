@@ -1,0 +1,6 @@
+"This is a sample text file. 
+It contains multiple sentences with different word lengths. 
+The goal is to analyze this text, and count the number of 
+unique words, find the longest word, count the specific word 
+occurrences(Case-insensitive), and calculate the percentage of
+ words that are longer than average word length."
