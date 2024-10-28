@@ -27,7 +27,7 @@ The practical is straightforward to use. Simply place your text file (e.g., samp
 
 
 ## LAB 3
-This Practical work contains various implementations and utilities for generating Fibonacci numbers, including recursive, iterative, and memorized approaches. It also includes functions to analyse the Fibonacci sequence, such as checking if a number is a Fibonacci number, finding the first Fibonacci number exceeding a given value, and calculating the ratios of consecutive Fibonacci numbers.
+This Practical work contains various implementations and utilities for generating Fibonacci numbers, including recursive, iterative, and memoized approaches. It also includes functions to analyse the Fibonacci sequence, such as checking if a number is a Fibonacci number, finding the first Fibonacci number exceeding a given value, and calculating the ratios of consecutive Fibonacci numbers.
 
 # Recursive Fibonacci Generator:
  Computes Fibonacci numbers using a recursive algorithm.
